@@ -19,11 +19,11 @@ class BoardGuiConsole(object):
         os.system("clear")
         self.unicode_representation()
         print "\n", self.error
-        print "State a move in chess notation (e.g. A2A3). Type \"exit\" to leave:\n", ">>>",
+        print "Make a move in chess notation (e.g. A2A3). Type \"exit\" to leave:\n", ">>>",
         self.error = ''
         coord = raw_input()
         if coord == "exit":
-            print "Bye."
+            print "Good Bye fellas,I'm hungry"
             exit(0)
         try:
             if len(coord) != 4: raise board.InvalidCoord

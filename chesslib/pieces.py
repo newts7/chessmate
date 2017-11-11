@@ -110,7 +110,6 @@ class Pawn(Piece):
         legal_moves = filter(board.is_in_bounds, legal_moves)
         return map(board.letter_notation, legal_moves)
 
-
 class Knight(Piece):
     abbriviation = 'n'
     def possible_moves(self,position):
