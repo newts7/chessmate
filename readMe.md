@@ -1,6 +1,6 @@
 # Chessmate
 
-* It's a small python - CLI based chess game developed during Python Game Challenge hosted at Fuelled office,
+* It's a small python - CLI based chess game developed during a 5 Hour Python Game Challenge hosted at Fueled office,
 Noida on 11th Novemeber.
 
 # Setup
