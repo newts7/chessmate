@@ -1,8 +1,9 @@
-#Chessmate
+# Chessmate
+
 * It's a small python - CLI based chess game developed during Python Game Challenge hosted at Fuelled office,
 Noida on 11th Novemeber.
 
-#Setup
+# Setup
 
 * Clone Repo
 ```angular2html
